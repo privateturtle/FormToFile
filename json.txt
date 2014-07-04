@@ -1,0 +1,18 @@
+
+{
+    "UserName": "szafarz", 
+    "Organisationzusatz": "mein organisationzusatz", 
+    "Land": "deutschland", 
+    "Web": "http://www.meinefirma.de", 
+    "Firma": "mein firmname", 
+    "Organisation": "meine Organisation", 
+    "Vorname": "peter", 
+    "FirmaZusatz": "meinfirma", 
+    "Email": "peter@mail.de", 
+    "Fax": "0", 
+    "Ort": "luebeck", 
+    "PLZ": "23565", 
+    "Telefon": "045845215", 
+    "Strasse": "meine firma strasse"
+}
+
